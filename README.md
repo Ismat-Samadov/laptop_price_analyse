@@ -1,7 +1,7 @@
 # Azerbaijan Laptop Market — Business Intelligence Report
 
-**Data scope:** 8,548 laptop listings scraped from 16 e-commerce retailers operating in Azerbaijan.
-**Analysis date:** February 2026
+- **Data scope:** 8,548 laptop listings scraped from 16 e-commerce retailers operating in Azerbaijan.
+- **Analysis date:** February 2026
 
 ---
 
